@@ -3,7 +3,7 @@
 | ---- | ---- |
 **Name**: | William Haythornthwaite  |
 **Student ID**: | 100169960 |
-**Course:** | BTEC Level 3 Extended Diploma |
+**Course:** | BTEC Level 3 Extended Diploma In Computing|
 **Module**: | Unit16     |
 **Started**: | January 2022 |    
 
