@@ -9,14 +9,20 @@ package calculator;
  * @author 100169960
  */
 public class Calculator {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    System.out.println("Hello World");
-    
+    String name;
+    public int add(int x, int y) {
+        return x + y;
+    }  
+    public int subtract(int x, int y) {
+        return x - y;
     }
-    
+    public int multiply(int x, int y) {
+        return x * y;
+    }    
+    public int divide(int x, int y) {
+        return x / y;
+    }
+    public int modulus(int x, int y) {
+        return x % y;
+    }
 }
