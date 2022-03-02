@@ -1,4 +1,5 @@
-﻿using ConsoleAppProject.App03;
+﻿using ConsoleAppProject.App01;
+using ConsoleAppProject.App03;
 using ConsoleAppProject.Helpers;
 using System;
 
@@ -21,6 +22,9 @@ namespace ConsoleAppProject
             Console.WriteLine("Unit16 Object Oriented Programing 2021-2022!");
             Console.WriteLine();
             Console.Beep();
+
+            DistanceConverter converter = new DistanceConverter();
+            converter.Run();
         }
     }
 }
