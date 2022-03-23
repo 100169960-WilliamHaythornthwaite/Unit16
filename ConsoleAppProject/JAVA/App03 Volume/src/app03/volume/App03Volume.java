@@ -59,11 +59,11 @@ public class App03Volume {
     b=sc.nextInt();
     h=sc.nextInt();
     
-    volume obj=new volume();
+    App03Volume obj=new App03Volume();
     
     obj.volume(s);
     obj.volume(r);
-    obj.volume(l,b.h);
+    obj.volume(l,b,h);
    
     }
     
