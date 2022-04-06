@@ -8,6 +8,6 @@ package app04mobiles;
  *
  * @author willi
  */
-public class Xioma {
+public class Xiaomi extends Android{
     
 }
