@@ -8,7 +8,15 @@ package app04mobiles;
  *
  * @author 100169960
  */
-public class Android {
+public class Android extends Mobiles{
     String Android_Version;
+
+    public String getAndroid_Version() {
+        return Android_Version;
+    }
+
+    public void setAndroid_Version(String Android_Version) {
+        this.Android_Version = Android_Version;
+    }
     
 }
