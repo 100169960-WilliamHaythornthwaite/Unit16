@@ -14,7 +14,16 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Samsung s = new Samsung();
+        s.setAndroid_Version("Android Pie");
+        s.setColour("Black");
+        s.setCost(3000);
+        s.setRAM("4GB");
+        System.out.println("Samsung mobile details");
+        System.out.println("Cost: "+s.getCost());
+        System.out.println("Colour: "+s.getColour());
+        System.out.println("RAM: "+s.getRAM());
+        System.out.println("Android version: "+s.getAndroid_Version());
     }
     
 }
