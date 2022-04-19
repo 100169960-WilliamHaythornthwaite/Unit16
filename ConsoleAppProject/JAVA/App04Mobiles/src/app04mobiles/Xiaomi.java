@@ -8,6 +8,6 @@ package app04mobiles;
  *
  * @author willi
  */
-public class Samsung extends Android{
+public class Xiaomi extends Android{
     
 }
