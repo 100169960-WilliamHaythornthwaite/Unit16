@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package cars;
+package app05bank;
 
 /**
  *
  * @author willi
  */
-public class Cars {
+public class App05Bank {
 
     /**
      * @param args the command line arguments
