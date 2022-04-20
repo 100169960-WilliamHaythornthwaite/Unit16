@@ -15,6 +15,17 @@ public class App05Bank {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // Creating objects of bank and Employee class
+        Bank bank = new Bank("ICICI");
+        Employee emp = new Employee("Ridhi");
+ 
+        // Print and display name and
+        // corresponding bank of employee
+        System.out.println(emp.getEmployeeName()
+                           + " is employee of "
+                           + bank.getBankName());
     }
     
 }
+
+
