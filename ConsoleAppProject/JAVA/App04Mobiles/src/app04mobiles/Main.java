@@ -31,7 +31,7 @@ public class Main {
         n.setColour("Silver");
         n.setCost(40000);
         n.setRAM("4GB");
-        n.setAndroid_Version("Andoid marshmelo");
+        n.setAndroid_Version("Andoid Msarshmelo");
 
         x.setColour("Red");
         x.setCost(50000);
